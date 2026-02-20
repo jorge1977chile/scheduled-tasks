@@ -44,4 +44,4 @@ if will_rain==False:
         to=cel,
     )
 
-    print(message.body
+    print(message.body)
